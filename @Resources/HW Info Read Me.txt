@@ -1,0 +1,12 @@
+You will need update he HWiNFO IDs included in this skin to match the IDs for your system.  To do this:
+1 - ensure HWiNFO is running, with sensors and shared memory active
+2 - run the included "HWiNFOSharedMemoryViewer.exe" file - you can also launch this by clicking the HWiNFO icon in the rainmeter skin
+3 - find the sensor reading you need (CPU Usage for example) and get the ID at the bottom right
+4 - edit the top of the HWiNFO rainmeter skin in the "HWiNFO Sensor Reading IDs" section to replace the provided ID with the ID for your system
+5 - refresh the HWiNFO skin
+
+For additional information, please see the following thread:
+http://www.hwinfo.com/forum/Thread-Rainmeter-plug-in-for-HWiNFO
+
+Skin Authors:
+A 32 and 64 bit redistributable copy of this plugin is availabe in the @Resources\RedistributablePlugin folder
