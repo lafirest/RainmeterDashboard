@@ -192,3 +192,10 @@ UseLocalMonths=1
 
 ;The format for the list of upcomming events. {day} and {desc} are valid variables.
 ;NextFormat={day}: {desc}
+
+;-----------------------------------------------------------------------------------------------
+;Utils
+;-----------------------------------------------------------------------------------------------
+[LuaUtils]
+Measure=Script
+ScriptFile=#@#Utils.lua
